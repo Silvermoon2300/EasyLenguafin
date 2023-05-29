@@ -1,0 +1,150 @@
+body {
+	background-image: url('http://drive.google.com/uc?export=view&id=15gNtgYp1CsGTqTzTMU-8f_77T4BbrjFo');
+	background-repeat: no-repeat;
+	background-position: scroll;
+}
+.about-us a { position: absolute;
+width: 120px;
+height: 49px;
+left: 1713px;
+top: 219px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+
+text-decoration: none;}
+
+.youtube a
+{ position: absolute;
+width: 60px;
+height: 55.2px;
+left: 1743px;
+top: 141px;
+text-decoration: none;
+}
+
+.vk a {
+	position: absolute;
+width: 60px;
+height: 60px;
+left: 1743px;
+top: 57px;
+text-decoration: none; }
+
+ul {
+    list-style-type: none;
+}
+.start { 
+position: absolute;
+width: 665px;
+height: 122px;
+left: 242px;
+top: 409px;
+display: flex;
+align-items: center;
+justify-content: center;
+background: #FFDCF1;
+border-radius: 38px; }
+.start p {
+width: 187px;
+height: 61px;
+left: 481px;
+top: 440px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 61px;
+color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.haveacc {
+position: absolute;
+width: 665px;
+height: 163px;
+left: 242px;
+top: 575px;
+
+background: #ADF2E2;
+border-radius: 38px; }
+
+.haveacc p { 
+width: 630px;
+height: 100px;
+left: 259px;
+top: 596px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+color: #000000;
+}
+.about-us2 a { 
+position: absolute;
+width: 120px;
+height: 49px;
+left: 541px;
+top: 906px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+
+
+text-align: center;
+
+color: #000000;
+text-decoration: none
+}
+
+.contacts a {
+position: absolute;
+width: 120px;
+height: 49px;
+left: 852px;
+top: 906px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+color: #000000;
+text-decoration: none
+}
+.conf-policy a { 
+position: absolute;
+width: 120px;
+height: 49px;
+left: 1139px;
+top: 906px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+text-decoration: none;
+color: black;
+white-space : nowrap; 
+}
+
+.logo img { 
+position: absolute;
+width: 122px;
+height: 110px;
+left: 120px;
+top: 2114px; }

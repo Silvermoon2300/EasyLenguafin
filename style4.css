@@ -1,0 +1,139 @@
+body {
+	background-color: #F3FFE2;
+	background-size: 100%;
+}
+h1 {
+position: absolute;
+text-align: center;
+width: 120px;
+height: 49px;
+left: 850px;
+top: 80px;
+color: #000000;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+text-align: center;
+ }
+ 
+#name {
+	width: 500px;
+height: 100px;
+background: #ADF2E2;
+border-radius: 38px;
+border: none !important;
+border-color: transparent !important; 
+font-size: 60px}
+#username {
+width: 500px;
+height: 100px;
+background: #ADF2E2;
+border-radius: 38px;
+border: none !important;
+border-color: transparent !important;
+font-size: 60px }
+
+#password {
+width: 500px;
+height: 100px;
+background: #ADF2E2;
+border-radius: 38px;
+border: none !important;
+border-color: transparent !important;
+font-size: 60px }
+
+#enter {
+position: absolute;
+width: 167px;
+height: 123px;
+left: 876px;
+top: 750px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 85px;
+text-align: center;
+color: #000000;
+background: #70D6F7;
+border-radius: 38px;
+border: none !important;
+border-color: transparent !important;}
+
+label {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
+}
+
+.name { 
+margin-top: 100px;
+margin-left: 570px }
+
+.login {
+margin-top: 50px;
+margin-left: 550px }
+
+.pass {
+margin-top: 50px;
+margin-left: 550px }
+
+.about-us2 a { 
+position: absolute;
+width: 120px;
+height: 49px;
+left: 541px;
+top: 906px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+
+
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+}
+
+.contacts a {
+position: absolute;
+width: 120px;
+height: 49px;
+left: 852px;
+top: 906px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+color: #000000;
+text-decoration: none;
+}
+.conf-policy a { 
+position: absolute;
+width: 120px;
+height: 49px;
+left: 1139px;
+top: 906px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+text-decoration: none;
+color: black;
+white-space : nowrap; 
+}
+
+ul 
+{ list-style-type: none; }

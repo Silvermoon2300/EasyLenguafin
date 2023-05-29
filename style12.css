@@ -1,0 +1,144 @@
+body {
+	background-color: #F3FFE2;
+	background-size: 100%;
+}
+.cabinet {
+position: absolute;
+top: 0px; }
+
+.menu
+{ 
+position: absolute;
+top: 0px; 
+right: 0px; 
+list-style-type: none;}
+h1 
+{ 
+position: absolute;
+width: 487px;
+height: 246px;
+left: 200;
+top: 100;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 90px;
+line-height: 110px;
+text-align: center;
+color: #000000; }
+
+.textprep {
+position: absolute;
+width: 978px;
+height: 42px;
+left: 300px;
+top: 200px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 59px;
+
+color: #000000; }
+.temapic1  {
+position: absolute;
+width: 100px;
+height: 100px;
+left: 10px;
+top: 300px; }
+
+.temapic2 {
+position: absolute;
+width: 100px;
+height: 100px;
+left: 10px;
+top: 500px; }
+.textverb {
+position: absolute;
+width: 978px;
+height: 42px;
+left: 300px;
+top: 400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 59px;
+
+color: #000000; }
+
+.preps {
+position: absolute;
+width: 663px;
+height: 96px;
+left: 200px;
+top: 300px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+.verbtobe {
+position: absolute;
+width: 663px;
+height: 96px;
+left: 200px;
+top: 500px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
+.materials {
+position: absolute;
+width: 492px;
+height: 165px;
+right: 100px;
+top: 500px;
+background: #70D6F7;
+border-radius: 38px;
+}
+
+.materials a {
+width: 142px;
+height: 61px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 61px;
+text-align: center;
+color: #000000;
+text-decoration: none; }
+.tests {
+position: absolute;
+width: 492px;
+height: 89px;
+right: 100px ;
+top: 350px;
+background: #FFDCF1;
+border-radius: 38px; }
+
+.tests a {
+width: 142px;
+height: 61px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 61px;
+text-align: center;
+color: #000000;
+text-decoration: none;
+}
+
+li {
+list-style-type: none; }

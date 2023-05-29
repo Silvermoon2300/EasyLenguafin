@@ -1,0 +1,103 @@
+body {
+	background-color: #F3FFE2;
+	background-size: 100%;
+}
+.chooselang {
+position: absolute;
+width: 791px;
+height: 149px;
+left: 574px;
+top: 100px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+text-align: center;
+
+color: #000000; }
+
+.spain {
+	position: absolute;
+width: 512px;
+height: 512px;
+left: 269px;
+top: 300px;
+mix-blend-mode: multiply;
+}
+.gb { 
+position: absolute;
+width: 512px;
+height: 512px;
+left: 1139px;
+top: 300px;
+mix-blend-mode: multiply;
+
+}
+.back img { 
+position: absolute;
+width: 122px;
+height: 110px;
+left: 200px;
+top: 100px; }
+
+.logo {
+position: absolute;
+width: 200px;
+height: 200px;
+left: 20px;
+top: 10px; }
+
+.about-us2 a { 
+position: absolute;
+width: 120px;
+height: 49px;
+left: 541px;
+top: 906px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+
+
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+}
+
+.contacts a {
+position: absolute;
+width: 120px;
+height: 49px;
+left: 852px;
+top: 906px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+color: #000000;
+text-decoration: none;
+}
+.conf-policy a { 
+position: absolute;
+width: 120px;
+height: 49px;
+left: 1139px;
+top: 906px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+text-decoration: none;
+color: black;
+white-space : nowrap; 
+}
+

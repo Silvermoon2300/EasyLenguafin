@@ -1,0 +1,189 @@
+body {
+	background-color: #F3FFE2;
+	background-size: 100%;
+}
+.about-us a { position: absolute;
+width: 120px;
+height: 49px;
+top: 219px;
+right: 0px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+color: #000000;
+text-decoration: none;}
+
+.youtube a
+{ position: absolute;
+    right: 0px;
+    top: 140px;
+    text-decoration: none;
+}
+
+.vk a {
+	position: absolute;
+    right: 0px;
+    top: 57px;
+    text-decoration: none; }
+
+ul {
+    list-style-type: none;
+}
+.start { 
+position: relative;
+width: 665px;
+height: 122px;
+left: 800px;
+top: 550px;
+bottom: 800px;
+right:560px;
+display: flex;
+align-items: center;
+justify-content: center;
+background: #FFDCF1;
+border-radius: 38px; 
+}
+.start a {
+width: 187px;
+height: 61px;
+left: 481px;
+top: 440px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+color: #000000;
+}
+a { 
+    text-decoration: none; }
+
+.haveacc {
+position: relative;
+width: 665px;
+height: 163px;
+left: 800px;
+top: 700px;
+right: 560px;
+bottom: 100px;
+
+background: #ADF2E2;
+border-radius: 38px; }
+
+.haveacc a { 
+width: 630px;
+height: 100px;
+left: 259px;
+top: 596px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+color: #000000;
+}
+.about-us2 a { 
+position: absolute;
+width: 120px;
+height: 49px;
+left: 1000px;
+bottom: 0px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+
+
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+}
+
+.contacts a {
+position: absolute;
+width: 120px;
+height: 49px;
+left: 1300px;
+bottom: 0px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+color: #000000;
+text-decoration: none
+}
+.conf-policy a { 
+position: absolute;
+width: 120px;
+height: 49px;
+left: 1600px;
+bottom: 0px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+text-decoration: none;
+color: black;
+white-space : nowrap; 
+}
+
+h1 {
+
+position: absolute;
+width: 120px;
+height: 49px;
+left: 850px;
+top: 120px;
+font-family: 'clear sans regular';
+font-style: oblique;
+font-size: 300px;
+line-height: 49px;
+text-align: center;
+margin: 10px 50px 20px;
+
+
+color: #9090ff; }
+
+h2 { 
+position: absolute;
+height: 49px;
+left: 600px;
+right: 300px;
+top: 380px;
+white-space: nowrap;
+font-family: 'Roboto', sans-serif;
+font-size: 70px;
+text-align: center;
+color: #9090ff; 
+padding: 10px 50px 20px;
+margin: 1px 20px 10px;
+} 
+
+.flaghand1
+{ 
+position: absolute;
+left: 0px;
+bottom: 0px;
+}
+
+.flaghand2
+{ 
+position: absolute;
+right: 0px;
+bottom: 0px;
+}
+
+.people {
+    position: absolute;
+    right: 700px;
+    bottom: 100px;
+}
+
